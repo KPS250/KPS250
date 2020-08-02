@@ -4,7 +4,7 @@
 - 🌱 Currently learning Javascript, React, Android, REST... and the list is never ending😆
 - 💬 Ask me about Mobile Development
 - 📫 How to reach me: kpshinde25@gmail.com
-- 😄 Pronouns: QuickLearner, Contributer, Reliable and rest you can discover once you hire me
+- 😄 Adjectives: QuickLearner, Contributer, Reliable and rest you can discover once you hire me
 
 Opensource Contributions:
 
